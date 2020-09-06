@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{CF66C390-C91C-42AA-984A-71D8260EBD23}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Todo.razor">
+    <Files>
+      <File FileName="Pages/Todo.razor" Line="25" Column="24" />
+      <File FileName="Pages/Index.razor" />
+      <File FileName="Shared/NavMenu.razor" Line="27" Column="77" />
+      <File FileName="Data/EmptyCSharpFile.cs" Line="5" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RainBlazor" expanded="True">
+            <Node name="RainBlazor" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Todo.razor" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.RainBlazor PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
