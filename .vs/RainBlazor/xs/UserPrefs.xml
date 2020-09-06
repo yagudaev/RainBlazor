@@ -1,14 +1,17 @@
-﻿<Properties GitUserInfo="UsingGIT">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Client/Pages/Index.razor">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{76DF9684-9927-4041-9EE6-30A842D8600D}|RainBlazor">
+  <MonoDevelop.Ide.ItemProperties.RainBlazor.Client PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Client/Pages/Counter.razor">
     <Files>
-      <File FileName="Client/Pages/Counter.razor" Line="1" Column="1" />
+      <File FileName="Client/Pages/Counter.razor" />
       <File FileName="Client/Pages/FetchData.razor" />
-      <File FileName="Client/Pages/Index.razor" Line="8" Column="1" />
+      <File FileName="Client/Pages/Index.razor" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="RainBlazor" expanded="True" />
+          <Node name="RainBlazor" expanded="True">
+            <Node name="RainBlazor.Client" selected="True" />
+          </Node>
         </State>
       </Pad>
     </Pads>
@@ -16,9 +19,6 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <DisabledProjects>
     <String>RainBlazor.csproj</String>
-    <String>Shared/RainBlazor.Shared.csproj</String>
-    <String>Server/RainBlazor.Server.csproj</String>
-    <String>Client/RainBlazor.Client.csproj</String>
   </DisabledProjects>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
