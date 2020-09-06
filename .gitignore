@@ -3,3 +3,6 @@ Client/bin/
 
 Server/obj/
 Server/bin/
+
+Shared/obj/
+Shared/bin/
