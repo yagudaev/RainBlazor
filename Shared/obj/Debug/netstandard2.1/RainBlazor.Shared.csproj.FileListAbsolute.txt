@@ -1,0 +1,9 @@
+/Users/mike/code/RainBlazor/Shared/bin/Debug/netstandard2.1/RainBlazor.Shared.deps.json
+/Users/mike/code/RainBlazor/Shared/bin/Debug/netstandard2.1/RainBlazor.Shared.dll
+/Users/mike/code/RainBlazor/Shared/bin/Debug/netstandard2.1/RainBlazor.Shared.pdb
+/Users/mike/code/RainBlazor/Shared/obj/Debug/netstandard2.1/RainBlazor.Shared.csprojAssemblyReference.cache
+/Users/mike/code/RainBlazor/Shared/obj/Debug/netstandard2.1/RainBlazor.Shared.AssemblyInfoInputs.cache
+/Users/mike/code/RainBlazor/Shared/obj/Debug/netstandard2.1/RainBlazor.Shared.AssemblyInfo.cs
+/Users/mike/code/RainBlazor/Shared/obj/Debug/netstandard2.1/RainBlazor.Shared.csproj.CoreCompileInputs.cache
+/Users/mike/code/RainBlazor/Shared/obj/Debug/netstandard2.1/RainBlazor.Shared.dll
+/Users/mike/code/RainBlazor/Shared/obj/Debug/netstandard2.1/RainBlazor.Shared.pdb

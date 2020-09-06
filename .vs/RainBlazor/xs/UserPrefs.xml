@@ -1,5 +1,5 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{70891E99-3312-4D11-8520-D4F97448DABD}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Client/Pages/Index.razor">
     <Files>
       <File FileName="Client/Pages/Counter.razor" Line="1" Column="1" />
       <File FileName="Client/Pages/FetchData.razor" />
@@ -10,11 +10,12 @@
         <State name="__root__">
           <Node name="RainBlazor" expanded="True">
             <Node name="RainBlazor.Client" expanded="True">
-              <Node name="Pages" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Index.razor" selected="True" />
+              </Node>
             </Node>
             <Node name="RainBlazor.Server" expanded="True">
               <Node name="Properties" expanded="True" />
-              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
