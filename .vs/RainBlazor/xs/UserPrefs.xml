@@ -1,29 +1,32 @@
-﻿<Properties StartupConfiguration="{CF66C390-C91C-42AA-984A-71D8260EBD23}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Todo.razor">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{70891E99-3312-4D11-8520-D4F97448DABD}|Default">
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="Pages/Todo.razor" Line="25" Column="24" />
-      <File FileName="Pages/Index.razor" />
-      <File FileName="Shared/NavMenu.razor" Line="27" Column="77" />
-      <File FileName="Data/EmptyCSharpFile.cs" Line="5" Column="2" />
+      <File FileName="Client/Pages/Counter.razor" Line="1" Column="1" />
+      <File FileName="Client/Pages/FetchData.razor" />
+      <File FileName="Client/Pages/Index.razor" Line="8" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="RainBlazor" expanded="True">
-            <Node name="RainBlazor" expanded="True">
-              <Node name="Data" expanded="True" />
-              <Node name="Pages" expanded="True">
-                <Node name="Todo.razor" selected="True" />
-              </Node>
+            <Node name="RainBlazor.Client" expanded="True">
+              <Node name="Pages" expanded="True" />
+            </Node>
+            <Node name="RainBlazor.Server" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.RainBlazor PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>RainBlazor.csproj</String>
+  </DisabledProjects>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.RainBlazor.Server PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
